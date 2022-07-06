@@ -1,2 +1,2 @@
-# Audiolab_Serge
-Spatial Audio Class lab
+# VRice
+VRice - Final Project
